@@ -4,13 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+/apis
 
 # testing
 /coverage
 
 # production
 /build
-/apis/youtube.js
 
 # misc
 .DS_Store
